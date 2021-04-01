@@ -1,0 +1,6 @@
+button-popup.pro.user
+debug/
+release/
+Makefile*
+mocinclude.opt
+.qmake.stash
